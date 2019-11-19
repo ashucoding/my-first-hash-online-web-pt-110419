@@ -1,5 +1,5 @@
 def my_hash
-  my_hash => {"Favorite Movies" => "Korean Drama", "Favorite Music" => "Jazz"}
+  my_hash = {"Favorite Movies" => "Korean Drama", "Favorite Music" => "Jazz"}
 end
 
 
