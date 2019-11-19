@@ -3,7 +3,8 @@ def my_hash
 end
 
 
-def shipping_manifest = {"Whale Bone Corset" => 5, "Porcelain Vases" => 2, "Oil Paintings" => 3}
+def shipping_manifest
+  shipping_manifest = {"Whale Bone Corset" => 5, "Porcelain Vases" => 2, "Oil Paintings" => 3}
 end
 
 def retrieval
