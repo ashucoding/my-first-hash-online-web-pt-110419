@@ -1,5 +1,5 @@
 def my_hash
-  my_hash => "Korean Movies"
+  my_hash => {""
   
 end
 
